@@ -16,9 +16,11 @@ The project comes from a Kaggle competition: Binary Prediction of Smoker Status 
   
   -**F8_notebook** which contains the code used to get our results.
 
-  -**Train.csv** : the data from Kaggle competition to train the models.
+  -**train.csv**: the data from Kaggle competition to train the models.
 
-  -**Test.csv** : the data from Kaggle competition to test the models.
+  -**test.csv**: the data from Kaggle competition to test the models.
+
+  -**sample_submission.csv**: an example of what a submission should look like from Kaggle competition.
 
 
 ***
