@@ -1,4 +1,4 @@
-# Project F8: Binary Prediction
+# Project F8: Predicting Smoking Status for a Smoke-Free Future
 
 The project comes from a Kaggle competition: Binary Prediction of Smoker Status using Bio-Signals
 
