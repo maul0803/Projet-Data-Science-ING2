@@ -14,7 +14,7 @@ The project comes from a Kaggle competition: Binary Prediction of Smoker Status 
 
   -**F8_report** which contains the Business understanding, the Data understanding and the plan that had been followed to achieve this project.
   
-  -**F8 : Predicting Smoking Status for a Smoke-Free Future.ipynb** which contains the code used to get our results.
+  -**F8_Predicting_Smoking_Status_for_a_Smoke-Free_Future.ipynb**: which contains the code used to get our results.
 
   -**train.csv**: the data from Kaggle competition to train the models.
 
